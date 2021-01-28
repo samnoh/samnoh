@@ -3,4 +3,4 @@
 
 ### About Me
 
-I'm interested in robust development and better user experience.
+I'm interested in robust developments and better UI/UX.
